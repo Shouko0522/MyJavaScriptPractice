@@ -1,0 +1,95 @@
+@charset "utf-8";
+
+
+.BOX1{
+  background-color: orange;
+  width: 100px;
+  height: 100px;
+}
+.BOX2{
+  background-color: skyblue;
+  width: 100px;
+  height: 100px;
+  position: fixed
+  top: 30px;
+  left: 30px;
+
+}
+.BOX3{
+  background-color: red;
+  width: 100px;
+  height: 100px;
+}
+
+/*.info{
+  color: skyblue;
+}
+
+ul{*/
+  /*list-style-type: circle;
+  list-style-position: : inside;
+  list-style-image: url(../img/icon.png)
+  list-style: circle inside url(../img/icon.png);
+}
+
+ol{
+  list-style-type: lower-alpha;
+  list-style: inside;
+  list-style-type: none;
+
+}*/
+
+
+
+/*h1{
+  color: red;
+  font-size: 48px;
+  text-align: center;
+  font-weight: normal;
+  text-decoration: line-through;
+}
+
+p{
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+a{
+  text-decoration: none;
+}*/
+
+/*h1{
+  font-family: Verdana, 'Arial Black', sans-serif;
+
+}
+*/
+
+/*p {
+  font-size: 16px;
+  line-height: 48px;
+  line-height: 3em;
+  line-height: 3;
+  background-color: pink;
+}
+*/
+
+/*main {
+  font-size: 32px;
+  line-height: 2em;
+  line-height: 2;
+}
+
+section{
+  font-size: 16px;
+}*/
+/*
+p{
+  line-height: 5;
+  background-color: pink;
+
+}
+
+
+img{
+  vertical-align: bottom;
+}*/
